@@ -43,7 +43,7 @@ h1 {
 	font-size: 60px;
 }
 h2 {
-	font-size: 48px;
+	font-size: 28px;
 }
 h3 {
 	font-size: 30px;
@@ -62,7 +62,7 @@ h6 {
 }
 .title h2 {
 	color: #202020;
-	line-height: 20px;
+	line-height: 40px;
 	padding-bottom: 30px;
 }
 .title p {
@@ -120,7 +120,7 @@ transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
 }
 /* home section */
 #home {
-	background: url('https://nationscapes.com/wp-content/uploads/2021/01/sprinklerinstall.png') 50% 0 repeat-y fixed;
+	background: url('https://nationscapes.com/wp-content/uploads/2021/01/sprinklerinstall.png') 50% 0 no-repeat fixed;
 	max-width: 100%;
   	height: auto;
 	color: #ffffff;
@@ -160,7 +160,7 @@ transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
 	margin: 0 !important;
 }
 .navbar-default .navbar-brand {
-	font-size: 40px;
+	font-size: 30px;
 	font-weight: bold;
 	margin: 0;
 	line-height: 40px !important;
@@ -244,6 +244,7 @@ transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
 /* team section */
 #team {
 	background: #202020 url('https://sprinklersplus.us/wp-content/uploads/2019/02/irrigation-systems.jpg') 50% 0 repeat-y fixed;
+	background-repeat: no-repeat;
 	max-width: 100%;
   	height: auto;
 	color: #ffffff;
@@ -252,6 +253,7 @@ transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
 }
 #team h2 {
 	color: #ffffff;
+
 }
 #team h3 {
 	font-size: 20px;
@@ -292,7 +294,8 @@ transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
 	border-radius: 1px;
 	width: 100%;
 	max-width: 100%;
-	height: auto;
+	height: 325px;
+	width: 650px;
 	opacity: 0.8;
 	margin-bottom: 34px;
 	opacity: 0.6;
@@ -355,14 +358,15 @@ transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
 /* contact section */
 #contact {
 	background: #f6f6f6 url('https://www.denverwater.org/sites/default/files/tap_featured_images//Jeff-v4.00_00_00_00.Still001.jpg') 50% 0 repeat-y fixed;
-	color: #ffffff;
+	color: black;
 	padding-top: 100px;
 	padding-bottom: 80px;
 	height: auto;
 	max-width: 100%;
 }
 #contact h2 {
-	color: #ffffff;
+	color: black;
+
 }
 #contact .form-control {
 	border-radius: 4px;
@@ -436,6 +440,7 @@ footer .copyright a {
 }
 #intro h2 {
 	font-size: 32px;
+	
 }
 #work .title {
 	padding: 80px 20px 20px 20px;
@@ -462,4 +467,11 @@ footer .copyright a {
 .portfolio-thumb .portfolio-overlay {
 	padding-top: 60px;
 }
+}
+
+
+.irrigation{
+	height: 263px;
+	width: 500px;
+	
 }
