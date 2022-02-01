@@ -12,7 +12,7 @@ Step 4: Import files into the text editors
 
 Step 5: If need be install a console to the text editor
 
-Step 6: In the app.py file change the host number to '127.0.0.1' within the dunder-main
+Step 6: In the app.py file change the host number to '127.0.0.1' within the dunder-main if need be.
 
 Step 7: Press ctrl+b if console is installed properly and the files should be ran
 
