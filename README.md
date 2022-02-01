@@ -16,7 +16,7 @@ Step 6: In the app.py file change the host number to '127.0.0.1' within the dund
 
 Step 7: Press ctrl+b if console is installed properly and the files should be ran
 
-step 8: copy and paste http://127.0.0.1:8000/ to your prefered browsers and hit enter.
+step 8: copy and paste http://127.0.0.1:7000/ to your prefered browsers and hit enter.
 
 step 9: Web application should be seen.
 
